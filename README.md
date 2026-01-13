@@ -1,9 +1,9 @@
 # Currículo Lattes – Versão Web
 
-Este projeto consiste na criação de uma **versão web do Currículo Lattes**, desenvolvida utilizando **HTML5** e **CSS3**.  
-O trabalho teve como objetivo aplicar conceitos fundamentais de desenvolvimento web, transformando um currículo acadêmico tradicional em uma página acessível via navegador.
+Este projeto consiste na criação de uma versão web do **Currículo Lattes**, desenvolvida utilizando **HTML5** e **CSS3**.  
+O objetivo foi transformar um currículo acadêmico tradicional em uma página web estruturada, semântica e visualmente organizada.
 
-📚 **Projeto desenvolvido como trabalho acadêmico da faculdade.**
+📌 **Projeto desenvolvido como trabalho acadêmico da faculdade**, com foco no aprendizado de fundamentos de desenvolvimento front-end.
 
 ---
 
@@ -16,31 +16,30 @@ O trabalho teve como objetivo aplicar conceitos fundamentais de desenvolvimento 
 
 ## 🎯 Objetivo do Projeto
 
-- Praticar a estruturação de páginas web com **HTML semântico**
-- Aplicar estilos e organização visual utilizando **CSS**
-- Desenvolver um currículo acadêmico em formato digital
-- Consolidar conhecimentos iniciais em desenvolvimento front-end
-- Versionar e publicar o projeto utilizando **Git e GitHub**
+- Praticar a estruturação de páginas web com HTML semântico  
+- Aplicar conceitos de estilização e layout com CSS  
+- Desenvolver um currículo acadêmico acessível via navegador  
+- Consolidar os conhecimentos iniciais em front-end  
 
 ---
 
 ## 📚 Aprendizados Durante o Desenvolvimento
 
-Durante a construção deste projeto, foi possível adquirir e reforçar diversos aprendizados importantes:
+Ao desenvolver este projeto, foi possível aprender e reforçar diversos conceitos importantes, como:
 
 ### HTML
-- Uso correto de **tags semânticas** para melhor organização do conteúdo  
-- Estruturação de informações com títulos, parágrafos, listas e seções  
-- Importância da hierarquia visual e lógica em um currículo  
-- Separação entre conteúdo (HTML) e apresentação (CSS)  
+- Uso de **tags semânticas** para melhor organização do conteúdo  
+- Estruturação correta de títulos, parágrafos, listas e seções  
+- Separação clara entre conteúdo e apresentação  
+- Importância da hierarquia de informações em um currículo  
 
 ### CSS
 - Estilização de textos, cores e espaçamentos  
-- Organização visual para melhorar a leitura e apresentação das informações  
-- Utilização de seletores, classes e propriedades básicas  
-- Noções de layout e alinhamento de elementos na página  
+- Organização visual do conteúdo para melhorar a legibilidade  
+- Uso de seletores, classes e propriedades básicas  
+- Noções de layout e alinhamento dos elementos na página  
 
-Além disso, o projeto proporcionou uma melhor compreensão do fluxo de desenvolvimento web, desde a criação do código até a publicação online.
+Além disso, o projeto ajudou a entender melhor como funciona o processo de criação de uma página web desde o planejamento até a visualização final no navegador.
 
 ---
 
